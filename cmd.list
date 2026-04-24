@@ -1,0 +1,9 @@
+sudo apt install -y libc6 libstdc++6 libusb-1.0-0 libcfitsio10 libnova-0.16-0 zlib1g libgphoto2-6 libraw20 libhidapi-libusb0 libcurl4 libftdi1-2 gpiod libusb-1.0-0 libev4 libfftw3-double3 libtheora0 libogg0 libvorbis0a libvorbisenc2 libcairo2 libpixman-1-0 libdfu1 liblimesuite22.09-1 librtlsdr0 liburjtag0 limesuite-udev libwxgtk3.2-1 libwxbase3.2-1 libwxgtk-gl3.2-1 libwxgtk-media3.2-1 libwxgtk-webview3.2-1 libopencv-core406 libopencv-imgproc406 libopencv-videoio406
+
+sudo apt install -y liberfa1 libgsl27 libgslcblas0 liblcms2-2 libwcs7 libstellarsolver2 libqt5core5a libqt5dbus5 libqt5gui5 libqt5network5 libqt5widgets5 libqt5svg5 libqt5sql5 libqt5sql5-sqlite libqt5websockets5 libqt5printsupport5 libqt5concurrent5 libqt5xml5 libqt5qml5 libqt5qmlmodels5 libqt5quick5 libqt5datavisualization5 libqt5x11extras5 libqt5texttospeech5 libqt5waylandclient5 libkf5attica5 libkf5auth5 libkf5bookmarks5 libkf5codecs5 libkf5completion5 libkf5configcore5 libkf5configgui5 libkf5configwidgets5 libkf5coreaddons5 libkf5crash5 libkf5i18n5 libkf5itemviews5 libkf5jobwidgets5 libkf5kiocore5 libkf5kiogui5 libkf5kiowidgets5 libkf5newstuff5 libkf5newstuffcore5 libkf5notifications5 libkf5notifyconfig5 libkf5plotting5 libkf5service5 libkf5solid5 libkf5widgetsaddons5 libkf5windowsystem5 libkf5xmlgui5 libkf5globalaccel5 libkf5guiaddons5 libkf5iconthemes5 libkf5dbusaddons5 libkf5archive5 libkf5package5 zlib1g xplanet
+
+sudo apt install -y breeze-icon-theme oxygen-icon-theme hicolor-icon-theme libkf5iconthemes5
+
+sudo gtk-update-icon-cache /usr/share/icons/hicolor/
+
+sudo kbuildsycoca5 --noincremental

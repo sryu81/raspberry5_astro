@@ -5,7 +5,7 @@ Welcome to the messy world: Raspberry Pi 5 configuration for astrophotography
 You must be experienced Linux user otherwise you can't proceed.
 
 ## Warning 2 - about power adapter
-Note that raspberry pi 5 needs 5V/5A power. If you are using standard 5V/3A (15W) or less powered adapter then you will get troubles to run anything attached via USB ports. However, it is really hard to get 5V/5A USB-C adapter in outdoor environment and no mobile battery support this type because it is NON-STANDARD.
+Note that raspberry pi 5 needs 5V/5A power. If you are using standard 5V/3A (15W) or underrated adapter then you will get troubles to run anything attached via USB ports. However, it is really hard to get 5V/5A USB-C adapter in outdoor environment and no mobile battery support this type because it is NON-STANDARD.
 So I would recommand you to get external power adapter for astronomers like this :
 
 [SVBONY SV241 Astronomy Telescope Power Adapter]
